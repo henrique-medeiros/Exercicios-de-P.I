@@ -1,0 +1,31 @@
+#div1 {
+    background-color: pink;
+    height: 300px;
+    width: 300px;
+}
+
+#div2 {
+    background-color: chartreuse;
+    height: 150px;
+    width: 150px;
+}
+
+#p {
+    
+    background-color: yellow;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+}
+
+#div3 {
+    width: 20%;
+    height: 20vh;
+    background-color: brown;
+}
+
+#div4 {
+    width: 35vh;
+    height: 15%;
+    background-color: slateblue;
+}
