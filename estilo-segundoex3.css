@@ -1,0 +1,31 @@
+.divA {
+    background-color: white;
+    height: 500px;
+    width: 50%;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.divB {
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+
+.divC {
+    background-color: rgb(189, 123, 0);
+    height: 100px;
+    width: 30%;
+}
+
+.divD {
+    background-color: rgb(4, 116, 4);
+    color: white;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-top: 50px;
+}
